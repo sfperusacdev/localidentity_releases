@@ -7,3 +7,7 @@
 
 ## v0.5.1
 - Fix: estado de licencias en la UI
+
+
+## v0.9.0
+- Fix: Excel para reporte de asistencia personal
