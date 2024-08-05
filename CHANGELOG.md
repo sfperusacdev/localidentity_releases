@@ -11,3 +11,7 @@
 
 ## v0.9.0
 - Fix: Excel para reporte de asistencia personal
+
+
+## v0.10.0
+- change machin id
