@@ -20,3 +20,6 @@
 - Se añade un endpoint para la generación de archivos Excel.
 - Corrección del problema de zoom en los archivos Excel.
 - Modificación del mecanismo de reintento para la comunicación con el servidor de identidad.
+
+#v0.12.3
+- update asistencia excel template
