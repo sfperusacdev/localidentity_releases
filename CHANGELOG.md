@@ -23,3 +23,6 @@
 
 #v0.12.3
 - update asistencia excel template
+
+#v0.12.4
+- update excel2pdf
