@@ -30,3 +30,5 @@
 #v0.13.0
 - reporte sunafil, excel y pdf
 
+#v0.13.1
+- reporte sunafil, se agrego run y razon social
