@@ -26,3 +26,7 @@
 
 #v0.12.4
 - update excel2pdf
+
+#v0.13.0
+- reporte sunafil, excel y pdf
+
